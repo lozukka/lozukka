@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently learning web development<br>I'm a third year student at University Applied Science<br>I'm going to graduate before Christmas 2025<br>I'm looking for my first tech-job
+- currently learning web development<br>
+- a third year student at University Applied Science<br>
+- going to graduate before Christmas 2025<br>
+- looking for my first tech-job
 
 
 ## 🌐 Socials:
